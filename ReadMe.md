@@ -7,7 +7,8 @@ A TODO application API boilerplate/project starter source code with Node.JS.
 ## Environment Variables
 Add the following environment variables in a new file `.env` in the project directory.
 `
-PORT=4321`
+PORT=4321`  
+
 
 `DB_CONNECTION_STRING=mongodb+srv://test:P@ssw0rd@cluster0-j85bx.mongodb.net/todo_db?retryWrites=true&w=majority
 `
